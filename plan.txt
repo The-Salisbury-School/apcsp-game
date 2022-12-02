@@ -1,0 +1,13 @@
+// Game start
+
+// Choose players
+
+// Deal cards
+
+// First turn
+
+// Step 1
+
+// Step 2
+
+// Second Turn
